@@ -1,0 +1,22 @@
+FF-864  Ice Cream Vanilla  100  4  400.00  
+________
+FF-865  Ice Cream Chocolate  100  4  400.00  
+________
+FF-866  Ice Cream Neapolitan  100  4  400.00  
+________
+FF-874  Original PancakeOriginal Pancake  50  5  250.00  
+________
+FF-875  Buttermilk Pancake  50  5  250.00  
+________
+FF-876  Marble Butter Cake Mix  50  5  250.00  
+________
+FF-884  Chicken Mushroom Pizza  50  5  250.00  
+________
+FF-885  Four Cheese Pizza  50  5  250.00  
+________
+FF-886  Hawaiian Chicken Pizza  50  5  250.00  
+________
+FF-894  Mushroom Chicken Sausages   50  6  300.00  
+________
+FF-895  Black Pepper Chicken Sausages  50  6  300.00  
+________

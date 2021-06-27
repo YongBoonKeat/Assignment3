@@ -1,0 +1,6 @@
+Yong Boon Keat  666  0174715598  No 115, Taman Haruan, 09000 Kulim, Kedah.  Male  Manager  5000  
+________
+Yong Sei Hui  777  0125983058  No 115, Taman Haruan, 09000 Kulim, Kedah.  Female  Cashier  3000  
+________
+Yong Sei Li  888  0174715598  No 115, Taman Haruan, 09000 Kulim, Kedah.  Female  Stock Controller  3000  
+________

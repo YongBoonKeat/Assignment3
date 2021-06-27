@@ -1,0 +1,32 @@
+		 Receipt
+============================================================	
+============================================================	
+Customer Name      Steven
+Phone Number       0135262963
+Address            No 116, Taman Kobis, 09600 Lunas, Kedah.
+============================================================	
+		Item List
+============================================================	
+Ice Cream Vanilla            		RM8 	5
+Ice Cream Chocolate          		RM8 	5
+Ice Cream Neapolitan         		RM8 	5
+Original Pancake             		RM9 	0
+ButtermilkPancakeMix         		RM9 	0
+MarbleButterCakeMix          		RM9 	0
+ChickenMushroomPizza         		RM10 	0
+FourCheesePizza              		RM10 	0
+HawaiianChickenPizza         		RM10 	0
+MushroomChickenSausages      	RM11 	0
+BlackPepperChickenSausages   	RM11 	0
+============================================================	
+Subtotal:              			RM 120.00
+(-)Discount:           			RM 3.60
+(+)Service Tax:        			RM 1.20
+____________________________________________________________	
+Total:               				RM 433.20
+============================================================	
+Payment:            			RM 200.0
+Balance:               			RM 82.40
+============================================================	
+
+	 Thank you for Shpping at YBK Grocey Store 
